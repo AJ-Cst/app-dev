@@ -1,6 +1,6 @@
 # Project Hail Mary (2026)
 
-![Project Hail Mary poster]([https://example.com/project-hail-mary-poster.jpg](https://imgs.search.brave.com/L50tkrbXHIKuw6ImkYvuHiEBDc-7GMXw6lfaKmk_Tuw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L3ZK/ZENjd2ViRXNIOFpj/Z3ZOVzRRZWUuanBn))
+![Project Hail Mary poster](https://imgs.search.brave.com/UgXvsm3vkef3JvLLaEEny324mawFpZDre0hU21MpaUM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk9HVTJPR1Jt/TVdZdFpHRXhaUzAw/Tm1RMUxXSTNNbU10/TVRZNU16RXlZVEkw/WmpOaVhrRXlYa0Zx/Y0djQC5qcGc)
 
 ## Overview
 *Project Hail Mary* is a **2026 sci-fi adventure film** directed by Phil Lord and Christopher Miller and based on the bestselling novel by Andy Weir, the author of *The Martian*. A science teacher wakes up alone on a spaceship, light years from home, with no memory of who he is or how he got there.
